@@ -68,7 +68,7 @@ setup(
         'tensorflow-gpu',
         'pylibversion == 0.1.0',
         'PyYAML == 5.4',
-        'requests == 2.22.0',
+        'requests == 2.31.0',
         'scipy',
     ],
     entry_points={
